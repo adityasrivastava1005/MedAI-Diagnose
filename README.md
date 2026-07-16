@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# MedAI-Diagnose
-=======
 # MedAI Diagnose
 ### CNN-Based Medical Diagnosis Pipeline Using PEPA (Patient-Evidence-Prior Attention)
 
@@ -225,4 +222,3 @@ Returns:
 > Always consult a qualified healthcare professional for medical decisions.
 
 ---
->>>>>>> 53a41a3 (add readme file)
